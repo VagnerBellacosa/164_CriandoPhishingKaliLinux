@@ -11,7 +11,9 @@
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Apresentação do Desafio](https://web.dio.me/lab/criando-um-phishing-no-kali-linux/learning/0c410b13-f629-42d9-96b2-99dc5d2dd10b)[Resolução](https://web.dio.me/lab/criando-um-phishing-no-kali-linux/learning/e750f6d3-285c-4920-bd78-24d4ce1e515c)[Entendendo o Desafio](https://web.dio.me/lab/criando-um-phishing-no-kali-linux/learning/e58cf4bf-335f-452d-90fb-0f857b5b2e86)
+- [Apresentação do Desafio](https://web.dio.me/lab/criando-um-phishing-no-kali-linux/learning/0c410b13-f629-42d9-96b2-99dc5d2dd10b)
+- [Resolução](https://web.dio.me/lab/criando-um-phishing-no-kali-linux/learning/e750f6d3-285c-4920-bd78-24d4ce1e515c)
+- [Entendendo o Desafio](https://web.dio.me/lab/criando-um-phishing-no-kali-linux/learning/e58cf4bf-335f-452d-90fb-0f857b5b2e86)
 
 
 
@@ -47,7 +49,7 @@ https://github.com/cassiano-dio/cibersecurity-desafio-phishing
 
  
 
-[Criando um Phishing com Kali Linux.pptx](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EVC5IlsbPCRHqGmpWiJ6LpYBODplb07kU4SyM6y9p05zCA?e=dpSgnR)
+- [Criando um Phishing com Kali Linux.pptx](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EVC5IlsbPCRHqGmpWiJ6LpYBODplb07kU4SyM6y9p05zCA?e=dpSgnR)
 
  
 
